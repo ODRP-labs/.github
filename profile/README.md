@@ -1,0 +1,35 @@
+# ODRP Labs
+
+**Communication that still works when the usual infrastructure doesn't.**
+
+I build tools for off-grid and emergency-ready communication — for the times when the cell
+network, the internet, or the power grid isn't there. This is where I publish the release-ready,
+public versions of that work.
+
+It's a one-person project right now, and I'd rather be straight about where things stand than
+oversell them. Most of this is early. The aim is simple: build things that are genuinely useful
+in the field, legal to operate, and honest about what they do — and don't do.
+
+## The projects
+
+- **Long Haul** — an amateur-radio-legal gateway that carries
+  [Reticulum](https://reticulum.network) messages over HF radio, so two people can reach each
+  other hundreds of miles apart with no cell service, no internet, and no subscription. It's
+  **cleartext by design** — that's what keeps it legal on the amateur bands — and it says so
+  plainly rather than pretending otherwise.
+- **ODRP** — a cross-platform disaster-relief volunteer-coordination app.
+- **Radio Pi** — a self-contained ham-radio station box. *(not public yet)*
+
+## Start here
+
+- **[Docs](https://odrp-labs.github.io/docs/)** — plain-language write-ups: what these projects
+  are, the direction I'm taking them, and the reasoning behind it.
+- **[on-air-format](https://github.com/ODRP-labs/on-air-format)** — the published spec for
+  exactly what Long Haul puts on the air, so anyone can verify it's in the clear and hiding
+  nothing.
+
+## Where it stands
+
+Long Haul is proven end-to-end in simulation and is heading toward on-air testing — it is **not**
+a finished product for sale. If legal, off-grid, resilient comms is something you care about,
+have a look around and follow along.
