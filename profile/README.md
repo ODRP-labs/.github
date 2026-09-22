@@ -2,13 +2,13 @@
 
 **Communication that still works when the usual infrastructure doesn't.**
 
-I build tools for off-grid and emergency-ready communication — for the times when the cell
-network, the internet, or the power grid isn't there. This is where I publish the release-ready,
-public versions of that work.
+I build **open-source** tools for off-grid and emergency-ready communication — for the times
+when the cell network, the internet, or the power grid isn't there. This is where I publish the
+public, release-ready versions of that work; it's free to use, read, and build on.
 
 It's a one-person project right now, and I'd rather be straight about where things stand than
 oversell them. Most of this is early. The aim is simple: build things that are genuinely useful
-in the field, legal to operate, and honest about what they do — and don't do.
+in the field, legal to operate, open, and honest about what they do — and don't do.
 
 ## The projects
 
@@ -17,7 +17,7 @@ in the field, legal to operate, and honest about what they do — and don't do.
   other hundreds of miles apart with no cell service, no internet, and no subscription. It's
   **cleartext by design** — that's what keeps it legal on the amateur bands — and it says so
   plainly rather than pretending otherwise.
-- **ODRP** — a cross-platform disaster-relief volunteer-coordination app.
+- **ODRP** — a cross-platform disaster-relief volunteer-coordination app. *(not public yet)*
 - **Radio Pi** — a self-contained ham-radio station box. *(not public yet)*
 
 ## Start here
@@ -30,6 +30,7 @@ in the field, legal to operate, and honest about what they do — and don't do.
 
 ## Where it stands
 
-Long Haul is proven end-to-end in simulation and is heading toward on-air testing — it is **not**
-a finished product for sale. If legal, off-grid, resilient comms is something you care about,
+Long Haul is proven end-to-end in simulation and is heading toward on-air testing — it's early,
+not a finished product, and I'm not hiding that. It's all open source, so you're welcome to read
+it, try it, and build on it. If legal, off-grid, resilient comms is something you care about,
 have a look around and follow along.
