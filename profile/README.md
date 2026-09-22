@@ -12,9 +12,10 @@ in the field, legal to operate, open, and honest about what they do — and don'
 
 ## The projects
 
-- **Long Haul** — an amateur-radio-legal gateway that carries
-  [Reticulum](https://reticulum.network) messages over HF radio, so two people can reach each
-  other hundreds of miles apart with no cell service, no internet, and no subscription. It's
+- **Long Haul** — an amateur-radio-legal gateway that **links two separate
+  [Reticulum](https://reticulum.network) meshes into one** over HF radio. It's not a single
+  point-to-point link — it bridges whole networks, so everyone on one mesh can reach everyone on
+  the other, hundreds of miles apart, with no cell service, no internet, and no subscription. It's
   **cleartext by design** — that's what keeps it legal on the amateur bands — and it says so
   plainly rather than pretending otherwise.
 - **ODRP** — a cross-platform disaster-relief volunteer-coordination app. *(not public yet)*
